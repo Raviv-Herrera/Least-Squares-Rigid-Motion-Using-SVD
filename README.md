@@ -5,6 +5,8 @@
 This repo summarizes the steps to computing the best-fitting rigid transformation that aligns
 two sets of corresponding points.
 
+A rigid transformation is composed of 2 terms, a rotation matrix R and a translation vector t. 
+
 ![](https://github.com/Raviv-Herrera/Rigid-Body-Transformation/blob/main/example.gif)
 
 
